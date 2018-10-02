@@ -1,6 +1,6 @@
 # Detecting Multiple Change Points Using Paired Adaptive Regressors for Cumulative Sum (PARCS)
 
-© 2018 Hazem Toutounji.
+© 2018 Hazem Toutounji
 
 This package is distributed under the terms of the GNU GPLv3 & Creative Commons Attribution License. Please credit the source and cite the reference below when using the code in any from of publication.
 
